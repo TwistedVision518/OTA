@@ -48,4 +48,11 @@ August 8
 Synced with latest source
 Few perf improvements 
 
+#######################################################################################################
+
+August 8
+
+Synced with latest source 
+Added new bouncing launcher3 animations (this is not in source this is done by me and a few certain others this animation is exclusive to my builds)
+increased memory optimization 
 
