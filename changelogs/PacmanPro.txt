@@ -68,3 +68,16 @@ Charging Limit now works like on stock NOS
 Fixed a issue with Navi UPI causing random softreboots
 Removed pixel launcher as it was causing issues with Blinkit and PhonePe 
 
+#######################################################################################################
+
+November 12th 2026
+
+Synced with latest source 
+Improved performance and battery life significantly with ADPF
+Upstream kernel to 5.15.223 and also use SCHED-BORE
+Changed size of app cards in recents menu to better utilize screen estate 
+Increase rounded corner radius a bit more 
+Switch to EROFS with LZ4HC compression
+Improve boot time
+Move charging indication below udfps 
+Switch to a different powerhint for PacmanPro
