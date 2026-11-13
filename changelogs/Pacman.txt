@@ -83,3 +83,14 @@ Increase rounded corner radius a bit more
 Switch to EROFS with LZ4HC compression
 Improve boot time
 Move charging indication below udfps 
+
+
+#######################################################################################################
+
+November 13th 2026
+
+Synced with latest source 
+Added back Pixel Launcher in quickswitch
+fixed hotspot network not showing up on other devices
+Switched to low-end blur 
+

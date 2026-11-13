@@ -1,20 +1,20 @@
 {
   "response": [
     {
-      "maintainer": "TwistedVision",
+      "maintainer": "TwistedVis",
       "oem": "Nothing",
       "device": "Pacman",
-      "filename": "Lunaris-AOSP-Pacman-OFFICIAL-3.13-GMS-2026111206.zip",
-      "download": "https://sourceforge.net/projects/twistedluna/files/Pacman/Lunaris-AOSP-Pacman-OFFICIAL-3.13-GMS-2026111206.zip/download",
-      "timestamp": 1794463201,
-      "md5": "549f3189aa59dfdf39d3ad60474f529a",
-      "sha256": "abaf35c042bb4b603a8ace4ff5717cf9bc8d6871dad3c869722ca289850dd86d",
-      "size": 3070831429,
+      "filename": "Lunaris-AOSP-Pacman-OFFICIAL-3.13-GMS-2026111308.zip",
+      "download": "https://sourceforge.net/projects/twistedluna/files/Pacman/Lunaris-AOSP-Pacman-OFFICIAL-3.13-GMS-2026111308.zip/download",
+      "timestamp": 1794558347,
+      "md5": "382d4b67dcae2e3ac7eae7a967a636f6",
+      "sha256": "3c8c53eb96e1ed40e365d3ba09e7dc53010da27b641518878302b1936f0a6090",
+      "size": 3078785108,
       "version": "3.13",
       "os_patch_level": "2026-11-01",
       "os_sdk_level": 36,
-      "buildtype": "Userdebug",
-      "forum": "https://t.me/NothingPhone2a",
+      "buildtype": "userdebug",
+      "forum": "",
       "gapps": "yes",
       "firmware": "",
       "modem": "",
@@ -22,9 +22,9 @@
       "recovery": "",
       "paypal": "https://github.com/sponsors/TwistedVision518",
       "telegram": "https://t.me/TwistedVis518",
-      "dt": "https://github.com/TwistedVision518/device_nothing_Aerodactyl_main",
-      "common-dt": " https://github.com/TwistedVision518/device_nothing_Aerodactyl_main",
-      "kernel": "https://github.com/over-engineer-org/android_device_nothing_Aerodactyl-kernel.git"
+      "dt": "https://github.com/TwistedVision518/android_device_nothing_Aerodactyl_main",
+      "common-dt": "https://github.com/TwistedVision518/android_device_nothing_Aerodactyl_main",
+      "kernel": "https://github.com/over-engineer-org/android_device_nothing_Aerodactyl-kernel"
     }
   ]
 }
